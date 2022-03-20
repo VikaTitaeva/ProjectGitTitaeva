@@ -76,4 +76,5 @@ public class MainActivity extends AppCompatActivity {
     //коммит1
     //коммит2
     //коммит5
+    //коммит7
 }
